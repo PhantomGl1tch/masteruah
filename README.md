@@ -15,5 +15,6 @@
     <li>echo > 1.txt "Hola"</li>
     <li>git checkout v0.2</li>
     <li>echo > 2.txt "Adios"</li>
+    <li>git merge v.02</li>
 </ul>
 
