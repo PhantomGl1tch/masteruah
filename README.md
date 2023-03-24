@@ -18,3 +18,13 @@
     <li>git merge v.02</li>
 </ul>
 
+![image-20230322161659564](C:\Users\zelle\AppData\Roaming\Typora\typora-user-images\image-20230322161659564.png)
+
+| COMPAÑERO | GIT-HUB                               |
+| --------- | ------------------------------------- |
+| Salva     | https://github.com/Salvitajiji        |
+| Antonio   | https://github.com/AntonioFernandez04 |
+| Sergio    |                                       |
+
+
+
