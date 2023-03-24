@@ -24,7 +24,10 @@
 | --------- | ------------------------------------- |
 | Salva     | https://github.com/Salvitajiji        |
 | Antonio   | https://github.com/AntonioFernandez04 |
-| Sergio    |                                       |
+|           |                                       |
 
 
 
+![image-20230324201128903](C:\Users\zelle\AppData\Roaming\Typora\typora-user-images\image-20230324201128903.png)
+
+![image-20230324201506669](C:\Users\zelle\AppData\Roaming\Typora\typora-user-images\image-20230324201506669.png)
